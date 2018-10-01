@@ -4,6 +4,8 @@
   "description": "Amplitude module for Vue",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint src --fix",
+    "build": "rollup",
     "release": "./scripts/release.sh"
   },
   "repository": {
