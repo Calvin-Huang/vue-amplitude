@@ -4,7 +4,7 @@ export default {
   input: 'src/main.js',
   output: {
     file: 'dist/vue-amplitude.js',
-    format: 'iife',
+    format: 'cjs',
     name: 'VueAmplitude',
   },
   plugins: [terser()],
