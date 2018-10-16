@@ -1,6 +1,6 @@
 {
   "name": "vue-amplitude",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Amplitude module for Vue",
   "main": "dist/vue-amplitude.js",
   "scripts": {
