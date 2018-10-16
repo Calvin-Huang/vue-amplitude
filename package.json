@@ -2,7 +2,7 @@
   "name": "vue-amplitude",
   "version": "1.0.0",
   "description": "Amplitude module for Vue",
-  "main": "index.js",
+  "main": "dist/vue-amplitude.js",
   "scripts": {
     "lint": "eslint src --fix",
     "build": "rollup -c",
